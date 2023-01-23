@@ -3,7 +3,7 @@
 The standing desk monitoring system helps you get insight into the usage of your standing desk.
 
 
-![Image of how the system looks](imgs/grafana.jpg)
+![Image of how the grafana dashboard looks](imgs/grafana.png)
 
 ## Arduino & Grafana
 
